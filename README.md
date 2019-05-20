@@ -30,11 +30,11 @@ DEMO: https://drive.google.com/open?id=1wWJ7hiutAbMqaFmTwPaImxycFJ6Jp-Co
 ## 4. 參考
 部份server的寫法是參考  
 https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274  
-這篇文
+這篇文章
 
 ## 5. 我的貢獻
 基本上全部的全端以及大部分的後端，後端一部分寫法上參考上方的文章內容。
 
 ## 5. 心得
-原本以為後端串起來會有一些難度，不過透過幾的網路上的例子摸索一陣後就很順利的完成了。
+原本以為後端串起來會有一些難度，不過透過幾的網路上的例子摸索一陣後就很順利的完成了。反而是前端要寫功能花比較久。
 
