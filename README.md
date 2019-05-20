@@ -24,3 +24,8 @@ After starting up the server and the client, go to localhost:3000 to visit the w
 ## 3. 待改進的地方
 1. 上傳商品圖片時 目前只能使用圖片url
 2. 登錄功能還沒有實做，因此administer跟customer的顯示沒有分開
+
+## 4. 參考
+部份server的寫法是參考
+https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274
+這篇文章
