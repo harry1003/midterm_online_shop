@@ -14,6 +14,7 @@
 After starting up the server and the client, go to localhost:3000 to visit the website.
 
 ## 2. What is this for?
+DEMO: https://drive.google.com/open?id=1wWJ7hiutAbMqaFmTwPaImxycFJ6Jp-Co
 簡單的購物網站，主要功能有
 1. 能夠線上新增商品、刪除商品。
 2. 能夠透過種類來選取想要的商品
@@ -26,6 +27,6 @@ After starting up the server and the client, go to localhost:3000 to visit the w
 2. 登錄功能還沒有實做，因此administer跟customer的顯示沒有分開
 
 ## 4. 參考
-部份server的寫法是參考
-https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274
+部份server的寫法是參考  
+https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274  
 這篇文章
