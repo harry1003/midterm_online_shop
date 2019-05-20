@@ -1,6 +1,4 @@
-
 # Online shopping website
-
 ## 1. How to run this code?
 1. for server
         
@@ -12,7 +10,9 @@
         cd ./client
         npm install
         npm start
-    
+
+After starting up the server and the client, go to localhost:3000 to visit the website.
+
 ## 2. What is this for?
 簡單的購物網站，主要功能有
 1. 能夠線上新增商品、刪除商品。
