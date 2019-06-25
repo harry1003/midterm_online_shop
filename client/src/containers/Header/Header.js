@@ -18,7 +18,11 @@ class Header extends Component {
                 <h1 className="Name">books shop</h1>
             </div>
             <div className="Sign_in">
-                <div className="Button">Sign in</div>
+                <div className="Button-wrapper">
+                    <NavLink className="Button-black" to="/login">
+                        Sign in
+                    </NavLink>
+                </div>
                 <div className="Button-wrapper">
                     <NavLink className="Button-black" to={"/purchase"}>Purchase</NavLink>
                     <div className={Item}></div>
